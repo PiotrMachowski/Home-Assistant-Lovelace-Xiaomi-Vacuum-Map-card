@@ -133,6 +133,7 @@
                 "starting": "开始清扫",
                 "charger disconnected": "与充电座断开",
                 "idle": "空闲",
+                "sleeping": "休眠",
                 "remote control active": "开始遥控模式",
                 "cleaning": "清扫中",
                 "returning home": "正在回充",
@@ -162,7 +163,8 @@
                 "silent": "安静",
                 "standard": "标准",
                 "medium": "强力",
-                "turbo": "MAX",
+                "Strong": "强力",
+                "turbo": "超强",
                 "auto": "自动",
                 "gentle": "轻柔"
             }
